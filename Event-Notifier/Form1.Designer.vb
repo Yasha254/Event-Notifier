@@ -59,7 +59,7 @@ Partial Class Form1
         btnevtregistration.Cursor = Cursors.Hand
         btnevtregistration.FlatStyle = FlatStyle.Flat
         btnevtregistration.ForeColor = SystemColors.InactiveBorder
-        btnevtregistration.Location = New Point(-2, 153)
+        btnevtregistration.Location = New Point(-3, 169)
         btnevtregistration.Name = "btnevtregistration"
         btnevtregistration.Size = New Size(200, 50)
         btnevtregistration.TabIndex = 2
@@ -184,7 +184,7 @@ Partial Class Form1
         ' 
         ' Form1
         ' 
-        AutoScaleDimensions = New SizeF(10.0F, 25.0F)
+        AutoScaleDimensions = New SizeF(10F, 25F)
         AutoScaleMode = AutoScaleMode.Font
         BackColor = SystemColors.ActiveCaptionText
         ClientSize = New Size(800, 450)
